@@ -39,7 +39,7 @@ A desktop application developed using Java Swing to manage income, track expense
 ![Login Page](login.png)
 
 ### User Registration
-![User Registration](user%20registration.png)
+![User Registeration](user%20registeration.png)
 
 ### Dashboard
 ![Dashboard](dashboard.png)
