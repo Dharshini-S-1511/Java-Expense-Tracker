@@ -35,23 +35,24 @@ A desktop application developed using Java Swing to manage income, track expense
 
 ## 📸 Application Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
+### Login
+![Login Page](login.png)
 
-### New user registeration
-![User Registeration Page](screenshots/user registeration.png)
+### User Registration
+![User Registration](user%20registration.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
-### Income and Expense Management
-![Transactions](screenshots/transactions.png)
+### Transaction Management
+![Transactions](transactions.png)
 
 ### Category Management
-![Category Management](screenshots/category management.png)
+![Categories](category%20management.png)
 
 ### Reports
-![Reports](screenshots/reports.png)
+![Reports](reports.png)
+
 
 ## 🎯 Project Objective
 To develop a simple desktop application for personal expense tracking and budget management while improving Java programming and GUI development skills.
